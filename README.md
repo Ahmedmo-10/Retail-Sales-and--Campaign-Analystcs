@@ -103,13 +103,12 @@ Present the complete project workflow, analytical results, dashboard, and key fi
 - Coordinated the workflow between the different project stages and helped ensure consistency between **Python, SQL, and Power BI**.
 - Responsible for preparing and delivering the **Final Project Presentation**, including explaining the project workflow, analysis, dashboard, and key findings.
 
-### Nour — Python, Data Preparation, SQL & Power BI
+### Nour — Python, Data Preparation & Power BI
 
 - Mainly responsible for the **Python stage** of the project.
 - Worked on **data loading, exploration, cleaning, transformation, preparation, and processing**.
 - Investigated the raw datasets and handled data preparation and data quality issues before moving to the following stages.
-- Worked with **Ahmed on reviewing and refining the Python notebook** and preparing the final data for SQL.
-- Worked with **Ahmed throughout the complete SQL stage**, contributing to **database preparation, relationships, queries, validation, and analytical operations**.
+- Worked with **Ahmed on reviewing and refining the Python notebook** and preparing the final data for the next stages.
 - Contributed to the **Power BI stage** through dashboard development, visualizations, trends, comparisons, and analytical insights.
 
 ### Ganna — SQL, Database Analysis & Power BI
