@@ -94,11 +94,32 @@ Present the project workflow, analytical results, dashboard, and key findings.
 
 ## 👥 Team Members
 
-| Team Member | Main Role | Responsibilities |
-|---|---|---|
-| **Ahmed** | Data Acquisition, SQL, Power BI & Final Presentation | Dataset research and collection, Python-SQL integration support, SQL analysis, Power BI dashboard development, project coordination, and final presentation |
-| **Nour** | Python, Data Preparation & Power BI | Data exploration, cleaning, preparation, processing, and Power BI visualization |
-| **Ganna** | SQL, Database Analysis & Power BI | Database preparation, table relationships, SQL queries, analytical operations, and Power BI insights |
+### Ahmed — Data Acquisition, SQL, Power BI & Final Presentation
+
+- Responsible for **researching and identifying the main dataset** required for the project and collecting the necessary data.
+- Worked with **Nour** during the Python stage, mainly on the **final integration between the prepared Python data and SQL**, along with minor adjustments and modifications.
+- Worked with **Ganna** during the SQL stage on **database preparation, table relationships, SQL queries, data validation, and analytical operations**.
+- Responsible for organizing and coordinating the transition between the different project stages.
+- In the **Power BI stage**, responsible for developing the interactive dashboard, including **KPIs, charts, filters, trends, and business insights**.
+- Responsible for preparing and delivering the **Final Project Presentation**, explaining the workflow, analysis, dashboard, and main findings.
+
+### Nour — Python, Data Cleaning & Power BI
+
+- Mainly responsible for the **Python stage** of the project.
+- Worked on **data loading, exploration, cleaning, transformation, and preparation**.
+- Investigated the raw datasets and handled data quality issues before moving to the SQL stage.
+- Prepared and organized the processed data so it could be used effectively in the database and analysis stages.
+- Worked with Ahmed on the **final Python-to-SQL integration** and made necessary adjustments.
+- In the **Power BI stage**, responsible for supporting dashboard development through **visualizations, trends, comparisons, and analytical insights**.
+
+### Ganna — SQL, Database Analysis & Power BI
+
+- Mainly responsible for the **SQL and database analysis stage**.
+- Worked with Ahmed on designing and preparing the analytical database.
+- Responsible for **creating and organizing database tables, establishing relationships, and preparing the data for analysis**.
+- Developed and worked with **SQL queries and analytical operations** to extract meaningful results from the data.
+- Contributed to analyses such as **weekly sales, department performance, income groups, RFM segmentation, and campaign redemption**.
+- In the **Power BI stage**, responsible for using the SQL analytical results to support **KPIs, visualizations, and business insights**.
 
 ## 📅 Work Plan
 
