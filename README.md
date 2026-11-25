@@ -58,9 +58,9 @@ The analysis covers:
 
 ## 🛠️ Tools & Technologies
 
-- 🐍 **Python** — Data exploration, cleaning, preparation, and processing
-- 🗄️ **SQL / PostgreSQL** — Database preparation, relationships, queries, and analysis
-- 📊 **Power BI** — Interactive dashboards, KPIs, and business visualizations
+- 🐍 **Python** — Data exploration, cleaning, preparation, transformation, and processing
+- 🗄️ **SQL / PostgreSQL** — Database preparation, relationships, queries, validation, and analysis
+- 📊 **Power BI** — Interactive dashboards, KPIs, visualizations, trends, and business insights
 - 📝 **GitHub** — Project documentation and version management
 
 ## ⚙️ Project Workflow
@@ -81,52 +81,51 @@ Data Research & Acquisition
 Research, identify, understand, and collect the required retail datasets.
 
 ### Phase 2 — Python
-Explore, clean, prepare, transform, and organize the raw data.
+Explore, clean, prepare, transform, and organize the raw data. The complete Python notebook was reviewed and refined to ensure the data was properly prepared for the following stages.
 
 ### Phase 3 — SQL
-Prepare the analytical database, establish relationships, perform SQL queries, and generate analytical results.
+Prepare the analytical database, establish relationships, perform SQL queries, validate the data, and generate analytical results.
 
 ### Phase 4 — Power BI
-Build an interactive dashboard containing KPIs, trends, comparisons, and business insights.
+Build the complete interactive dashboard containing KPIs, trends, comparisons, filters, visualizations, and business insights.
 
 ### Phase 5 — Final Presentation
-Present the project workflow, analytical results, dashboard, and key findings.
+Present the complete project workflow, analytical results, dashboard, and key findings.
 
 ## 👥 Team Members
 
-### Ahmed — Data Acquisition, SQL, Power BI & Final Presentation
+### Ahmed — Data Acquisition, Python, SQL, Power BI & Final Presentation
 
-- Responsible for **researching and identifying the main dataset** required for the project and collecting the necessary data.
-- Worked with **Nour** during the Python stage, mainly on the **final integration between the prepared Python data and SQL**, along with minor adjustments and modifications.
-- Worked with **Ganna** during the SQL stage on **database preparation, table relationships, SQL queries, data validation, and analytical operations**.
-- Responsible for organizing and coordinating the transition between the different project stages.
-- In the **Power BI stage**, responsible for developing the interactive dashboard, including **KPIs, charts, filters, trends, and business insights**.
-- Responsible for preparing and delivering the **Final Project Presentation**, explaining the workflow, analysis, dashboard, and main findings.
+- Responsible for **researching, identifying, and collecting the main dataset** required for the project.
+- Reviewed the **complete Python notebook**, made necessary modifications and improvements, and ensured that the prepared data was suitable for the following stages.
+- Worked with **Nour throughout the complete SQL stage**, including **database preparation, table relationships, SQL queries, data validation, analytical operations, and extracting the required insights**.
+- Worked on the **complete Power BI stage**, including **data preparation, KPI development, dashboard design, visualizations, filters, trends, and business insights**.
+- Coordinated the workflow between the different project stages and helped ensure consistency between **Python, SQL, and Power BI**.
+- Responsible for preparing and delivering the **Final Project Presentation**, including explaining the project workflow, analysis, dashboard, and key findings.
 
-### Nour — Python, Data Cleaning & Power BI
+### Nour — Python, Data Preparation, SQL & Power BI
 
 - Mainly responsible for the **Python stage** of the project.
-- Worked on **data loading, exploration, cleaning, transformation, and preparation**.
-- Investigated the raw datasets and handled data quality issues before moving to the SQL stage.
-- Prepared and organized the processed data so it could be used effectively in the database and analysis stages.
-- Worked with Ahmed on the **final Python-to-SQL integration** and made necessary adjustments.
-- In the **Power BI stage**, responsible for supporting dashboard development through **visualizations, trends, comparisons, and analytical insights**.
+- Worked on **data loading, exploration, cleaning, transformation, preparation, and processing**.
+- Investigated the raw datasets and handled data preparation and data quality issues before moving to the following stages.
+- Worked with **Ahmed on reviewing and refining the Python notebook** and preparing the final data for SQL.
+- Worked with **Ahmed throughout the complete SQL stage**, contributing to **database preparation, relationships, queries, validation, and analytical operations**.
+- Contributed to the **Power BI stage** through dashboard development, visualizations, trends, comparisons, and analytical insights.
 
 ### Ganna — SQL, Database Analysis & Power BI
 
-- Mainly responsible for the **SQL and database analysis stage**.
-- Worked with Ahmed on designing and preparing the analytical database.
-- Responsible for **creating and organizing database tables, establishing relationships, and preparing the data for analysis**.
-- Developed and worked with **SQL queries and analytical operations** to extract meaningful results from the data.
-- Contributed to analyses such as **weekly sales, department performance, income groups, RFM segmentation, and campaign redemption**.
-- In the **Power BI stage**, responsible for using the SQL analytical results to support **KPIs, visualizations, and business insights**.
+- Mainly responsible for contributing to the **SQL and database analysis stage**.
+- Worked on **database preparation, table organization, relationships, and preparing data for analysis**.
+- Contributed to developing and working with **SQL queries and analytical operations** to extract meaningful results.
+- Supported the analysis of **weekly sales, department performance, income groups, RFM segmentation, and campaign redemption**.
+- Contributed to the **Power BI stage** by using analytical results to support **KPIs, visualizations, and business insights**.
 
 ## 📅 Work Plan
 
 | Phase | Main Activities |
 |---|---|
 | **Phase 1** | Data Research & Acquisition |
-| **Phase 2** | Python Data Preparation |
+| **Phase 2** | Python Data Preparation & Refinement |
 | **Phase 3** | SQL Database & Analysis |
 | **Phase 4** | Power BI Dashboard Development |
 | **Phase 5** | Final Presentation |
