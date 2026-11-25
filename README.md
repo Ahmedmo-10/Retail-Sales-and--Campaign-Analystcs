@@ -105,7 +105,6 @@ Present the complete project workflow, analytical results, dashboard, and key fi
 
 ### Nour — Python, Data Preparation & Power BI
 
-- Mainly responsible for the **Python stage** of the project.
 - Worked on **data loading, exploration, cleaning, transformation, preparation, and processing**.
 - Investigated the raw datasets and handled data preparation and data quality issues before moving to the following stages.
 - Worked with **Ahmed on reviewing and refining the complete Python notebook** and preparing the final data for the next stages.
@@ -113,7 +112,6 @@ Present the complete project workflow, analytical results, dashboard, and key fi
 
 ### Ganna — SQL, Database Analysis & Power BI
 
-- Mainly responsible for the **SQL and database analysis stage**.
 - Worked with **Ahmed throughout the SQL stage** on **database preparation, table organization, relationships, SQL queries, data validation, and analytical operations**.
 - Contributed to extracting and organizing analytical results from the database.
 - Supported analyses including **weekly sales, department performance, income groups, RFM segmentation, and campaign redemption**.
