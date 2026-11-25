@@ -98,7 +98,7 @@ Present the complete project workflow, analytical results, dashboard, and key fi
 
 - Responsible for **researching, identifying, and collecting the main dataset** required for the project.
 - Reviewed the **complete Python notebook**, made necessary modifications and improvements, and ensured that the prepared data was suitable for the following stages.
-- Worked with **Nour throughout the complete SQL stage**, including **database preparation, table relationships, SQL queries, data validation, analytical operations, and extracting the required insights**.
+- Worked with **Ganna throughout the SQL stage**, including **database preparation, table relationships, SQL queries, data validation, analytical operations, and extracting the required insights**.
 - Worked on the **complete Power BI stage**, including **data preparation, KPI development, dashboard design, visualizations, filters, trends, and business insights**.
 - Coordinated the workflow between the different project stages and helped ensure consistency between **Python, SQL, and Power BI**.
 - Responsible for preparing and delivering the **Final Project Presentation**, including explaining the project workflow, analysis, dashboard, and key findings.
@@ -108,16 +108,16 @@ Present the complete project workflow, analytical results, dashboard, and key fi
 - Mainly responsible for the **Python stage** of the project.
 - Worked on **data loading, exploration, cleaning, transformation, preparation, and processing**.
 - Investigated the raw datasets and handled data preparation and data quality issues before moving to the following stages.
-- Worked with **Ahmed on reviewing and refining the Python notebook** and preparing the final data for the next stages.
+- Worked with **Ahmed on reviewing and refining the complete Python notebook** and preparing the final data for the next stages.
 - Contributed to the **Power BI stage** through dashboard development, visualizations, trends, comparisons, and analytical insights.
 
 ### Ganna — SQL, Database Analysis & Power BI
 
-- Mainly responsible for contributing to the **SQL and database analysis stage**.
-- Worked on **database preparation, table organization, relationships, and preparing data for analysis**.
-- Contributed to developing and working with **SQL queries and analytical operations** to extract meaningful results.
-- Supported the analysis of **weekly sales, department performance, income groups, RFM segmentation, and campaign redemption**.
-- Contributed to the **Power BI stage** by using analytical results to support **KPIs, visualizations, and business insights**.
+- Mainly responsible for the **SQL and database analysis stage**.
+- Worked with **Ahmed throughout the SQL stage** on **database preparation, table organization, relationships, SQL queries, data validation, and analytical operations**.
+- Contributed to extracting and organizing analytical results from the database.
+- Supported analyses including **weekly sales, department performance, income groups, RFM segmentation, and campaign redemption**.
+- Contributed to the **Power BI stage** by supporting KPIs, visualizations, trends, and business insights.
 
 ## 📅 Work Plan
 
